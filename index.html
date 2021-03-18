@@ -910,9 +910,8 @@
                   <div class="tags has-addons">
                     <span class="tag is-dark">TESTING</span>
                     <span class="tag is-success"
-                      ><a
-                        href="upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00"
-                        >UPI TEST (Do not Click)</a
+                      ><a onClick="handleNavigation('GENERIC')">
+                        GENERIC UPI TEST (Do not Click)</a
                       ></span
                     >
                   </div>
@@ -923,10 +922,7 @@
                   <div class="tags has-addons">
                     <span class="tag is-dark">TESTING</span>
                     <span class="tag is-success"
-                      ><a
-                        href="tez://upi/pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00"
-                        >GPAY UPI TEST (Do not Click)</a
-                      ></span
+                      ><a onclick="handleNavigation('GPAY')">GPAY UPI TEST (Do not Click)</a></span
                     >
                   </div>
                 </div>
@@ -936,9 +932,20 @@
                   <div class="tags has-addons">
                     <span class="tag is-dark">TESTING</span>
                     <span class="tag is-success"
-                      ><a
-                        href="phonepe://upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00"
+                      ><a onClick="handleNavigation('PHONEPE')"
                         >PhonePe UPI TEST (Do not Click)</a
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+              <div class="field is-grouped is-grouped-multiline">
+                <div class="control">
+                  <div class="tags has-addons">
+                    <span class="tag is-dark">TESTING</span>
+                    <span class="tag is-success"
+                      ><a onclick="handleNavigation('BHIM')"
+                        >UPI Not installed Error</a
                       ></span
                     >
                   </div>
@@ -962,6 +969,23 @@
         },
       });
       navigator.getInstalledRelatedApps().then((res) => console.log(res));
+
+      function handleNavigation(key) {
+        const APP_URLS = {
+          PHONEPE:
+            "phonepe://upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
+          GPAY:
+            "tez://upi/pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
+          BHIM:
+            "bhim://upi/pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
+          GENERIC:
+            "upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
+        };
+        window.location.href = APP_URLS[key];
+        setTimeout(() => {
+          alert("App not installed");
+        }, 300);
+      }
     </script>
   </body>
 </html>

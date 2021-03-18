@@ -939,18 +939,6 @@
                   </div>
                 </div>
               </div>
-              <div class="field is-grouped is-grouped-multiline">
-                <div class="control">
-                  <div class="tags has-addons">
-                    <span class="tag is-dark">TESTING</span>
-                    <span class="tag is-success"
-                      ><a onclick="handleNavigation('BHIM')"
-                        >UPI Not installed Error</a
-                      ></span
-                    >
-                  </div>
-                </div>
-              </div>
             </h2>
           </div>
         </div>
@@ -976,15 +964,10 @@
             "phonepe://upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
           GPAY:
             "tez://upi/pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
-          BHIM:
-            "bhim://upi/pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
           GENERIC:
             "upi://pay?pa=payu@axisbank&pn=SMSPLUS&tr=8312916361&am=1.00",
         };
-        window.location.href = APP_URLS[key];
-        setTimeout(() => {
-          alert("App not installed");
-        }, 300);
+        window.location = APP_URLS[key];
       }
     </script>
   </body>

@@ -1,0 +1,642 @@
+[
+  {
+    "status": "connected",
+    "deviceType": "View Sense 1",
+    "serial": "7a:f1:a4:f7:60:4a",
+    "floor": "Floor 5",
+    "space": "Space 58821",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 2",
+    "serial": "e0:bc:da:6b:0c:d7",
+    "floor": "Floor 8",
+    "space": "Space 08468",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 3",
+    "serial": "93:cb:8a:8c:19:d1",
+    "floor": "Floor 5",
+    "space": "Space 13888",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 4",
+    "serial": "be:ce:72:3b:69:05",
+    "floor": "Floor 1",
+    "space": "Space 51289",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 5",
+    "serial": "10:34:ae:2f:ba:3b",
+    "floor": "Floor 2",
+    "space": "Space 86167",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 6",
+    "serial": "0c:16:a0:52:4c:0e",
+    "floor": "Floor 9",
+    "space": "Space 66824",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 7",
+    "serial": "54:f5:69:a8:e0:cc",
+    "floor": "Floor 9",
+    "space": "Space 11426",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 8",
+    "serial": "2f:5c:20:c5:f0:01",
+    "floor": "Floor 1",
+    "space": "Space 91591",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 9",
+    "serial": "e2:d7:ae:09:a5:f0",
+    "floor": "Floor 1",
+    "space": "Space 61931",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 10",
+    "serial": "03:dd:11:90:90:07",
+    "floor": "Floor 2",
+    "space": "Space 81581",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 11",
+    "serial": "2a:3b:3d:98:f6:5d",
+    "floor": "Floor 0",
+    "space": "Space 27513",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 12",
+    "serial": "a2:6a:5f:90:54:95",
+    "floor": "Floor 00",
+    "space": "Space 18284",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 13",
+    "serial": "d9:f4:a1:21:65:dc",
+    "floor": "Floor 8",
+    "space": "Space 20704",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 14",
+    "serial": "a4:94:95:ef:c3:4f",
+    "floor": "Floor 1",
+    "space": "Space 82125",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 15",
+    "serial": "22:c5:82:37:d1:9b",
+    "floor": "Floor 5",
+    "space": "Space 55035",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 16",
+    "serial": "5e:da:aa:29:cc:b1",
+    "floor": "Floor 6",
+    "space": "Space 43159",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 17",
+    "serial": "c3:cb:92:d7:de:5a",
+    "floor": "Floor 7",
+    "space": "Space 79003",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 18",
+    "serial": "21:50:4a:a4:6c:52",
+    "floor": "Floor 8",
+    "space": "Space 27800",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 19",
+    "serial": "89:d2:9a:db:16:47",
+    "floor": "Floor 5",
+    "space": "Space 28517",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 20",
+    "serial": "30:f4:2c:e5:5d:1e",
+    "floor": "Floor 9",
+    "space": "Space 77634",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 21",
+    "serial": "01:b7:c8:2e:95:48",
+    "floor": "Floor 8",
+    "space": "Space 40381",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 22",
+    "serial": "71:5c:1c:99:cd:e4",
+    "floor": "Floor 4",
+    "space": "Space 73170",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 23",
+    "serial": "12:d2:66:2d:81:dd",
+    "floor": "Floor 2",
+    "space": "Space 55481",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 24",
+    "serial": "87:48:0e:f6:e5:7b",
+    "floor": "Floor 9",
+    "space": "Space 06048",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 25",
+    "serial": "05:4f:01:3d:ec:48",
+    "floor": "Floor 7",
+    "space": "Space 18673",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 26",
+    "serial": "c3:34:70:ec:4e:48",
+    "floor": "Floor 3",
+    "space": "Space 05474",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 27",
+    "serial": "08:ea:2e:81:c2:d2",
+    "floor": "Floor 6",
+    "space": "Space 64770",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 28",
+    "serial": "dc:07:6f:fb:49:38",
+    "floor": "Floor 9",
+    "space": "Space 04099",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 29",
+    "serial": "09:df:3b:03:04:64",
+    "floor": "Floor 7",
+    "space": "Space 76813",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 30",
+    "serial": "3b:a3:44:e5:27:0b",
+    "floor": "Floor 6",
+    "space": "Space 87064",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 31",
+    "serial": "f9:4d:ac:bf:f0:4b",
+    "floor": "Floor 7",
+    "space": "Space 88035",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 32",
+    "serial": "99:02:24:9d:e4:ba",
+    "floor": "Floor 0",
+    "space": "Space 62011",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 33",
+    "serial": "48:8b:0e:a6:98:ea",
+    "floor": "Floor 9",
+    "space": "Space 11207",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 34",
+    "serial": "5d:4e:2e:63:7d:e6",
+    "floor": "Floor 4",
+    "space": "Space 01131",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 35",
+    "serial": "5e:3f:b1:9e:34:a9",
+    "floor": "Floor 6",
+    "space": "Space 61124",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 36",
+    "serial": "38:c3:40:c6:79:3b",
+    "floor": "Floor 5",
+    "space": "Space 10180",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 37",
+    "serial": "40:79:e4:07:00:0e",
+    "floor": "Floor 0",
+    "space": "Space 35727",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 38",
+    "serial": "dd:ca:9e:49:cb:f5",
+    "floor": "Floor 2",
+    "space": "Space 14104",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 39",
+    "serial": "5b:e2:33:54:9e:56",
+    "floor": "Floor 7",
+    "space": "Space 68472",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 40",
+    "serial": "15:9e:e0:14:bf:49",
+    "floor": "Floor 9",
+    "space": "Space 13276",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 41",
+    "serial": "31:51:d8:7c:2f:c0",
+    "floor": "Floor 2",
+    "space": "Space 68540",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 42",
+    "serial": "43:b2:d5:75:b0:53",
+    "floor": "Floor 4",
+    "space": "Space 13979",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 43",
+    "serial": "ec:4a:f1:4f:e0:f2",
+    "floor": "Floor 8",
+    "space": "Space 35196",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 44",
+    "serial": "fd:00:57:4d:57:c1",
+    "floor": "Floor 3",
+    "space": "Space 05050",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 45",
+    "serial": "6c:9f:81:94:88:0e",
+    "floor": "Floor 5",
+    "space": "Space 11305",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 46",
+    "serial": "00:0a:e9:02:06:88",
+    "floor": "Floor 4",
+    "space": "Space 18855",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 47",
+    "serial": "19:a2:94:b7:cc:ee",
+    "floor": "Floor 0",
+    "space": "Space 63434",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 48",
+    "serial": "73:02:76:20:62:0a",
+    "floor": "Floor 5",
+    "space": "Space 71069",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 49",
+    "serial": "f9:15:ea:cd:7f:d9",
+    "floor": "Floor 7",
+    "space": "Space 99476",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 50",
+    "serial": "fe:c8:dd:0d:d6:e3",
+    "floor": "Floor 9",
+    "space": "Space 89746",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 51",
+    "serial": "82:61:59:d7:b1:1c",
+    "floor": "Floor 8",
+    "space": "Space 09970",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 52",
+    "serial": "27:46:83:91:81:91",
+    "floor": "Floor 0",
+    "space": "Space 64551",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 53",
+    "serial": "96:81:4e:fa:9d:f6",
+    "floor": "Floor 5",
+    "space": "Space 02333",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 54",
+    "serial": "cf:fa:59:eb:e9:08",
+    "floor": "Floor 3",
+    "space": "Space 92536",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 55",
+    "serial": "77:5a:e4:f4:62:9c",
+    "floor": "Floor 1",
+    "space": "Space 57739",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 56",
+    "serial": "d8:42:ae:67:ab:51",
+    "floor": "Floor 3",
+    "space": "Space 01212",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 57",
+    "serial": "16:07:1a:8e:af:52",
+    "floor": "Floor 2",
+    "space": "Space 47296",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 58",
+    "serial": "77:d4:16:8d:de:a5",
+    "floor": "Floor 3",
+    "space": "Space 03950",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 59",
+    "serial": "be:f5:d3:39:cd:f1",
+    "floor": "Floor 3",
+    "space": "Space 20480",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 60",
+    "serial": "d5:0f:50:8d:68:84",
+    "floor": "Floor 0",
+    "space": "Space 22588",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 61",
+    "serial": "de:cb:ae:59:f2:2b",
+    "floor": "Floor 4",
+    "space": "Space 79348",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 62",
+    "serial": "29:07:06:3a:2f:fd",
+    "floor": "Floor 8",
+    "space": "Space 78053",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 63",
+    "serial": "e3:6f:5c:16:b5:c3",
+    "floor": "Floor 4",
+    "space": "Space 58189",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 64",
+    "serial": "68:4a:c0:42:c8:5f",
+    "floor": "Floor 6",
+    "space": "Space 31126",
+    "commissioned": true
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 65",
+    "serial": "cd:2b:d7:5d:95:d5",
+    "floor": "Floor 7",
+    "space": "Space 27685",
+    "commissioned": false
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 66",
+    "serial": "e4:5a:02:d3:18:57",
+    "floor": "Floor 4",
+    "space": "Space 07815",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 67",
+    "serial": "45:2b:c2:02:d8:05",
+    "floor": "Floor 0",
+    "space": "Space 06199",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 68",
+    "serial": "0c:11:d2:e4:73:94",
+    "floor": "Floor 5",
+    "space": "Space 39089",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 69",
+    "serial": "d4:22:08:8a:5a:8a",
+    "floor": "Floor 0",
+    "space": "Space 54865",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 70",
+    "serial": "c8:54:47:97:46:9b",
+    "floor": "Floor 5",
+    "space": "Space 45850",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 71",
+    "serial": "f3:d6:17:a4:b8:e5",
+    "floor": "Floor 0",
+    "space": "Space 11204",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 72",
+    "serial": "c5:9e:61:aa:21:0a",
+    "floor": "Floor 2",
+    "space": "Space 61992",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 73",
+    "serial": "41:51:91:fa:0b:50",
+    "floor": "Floor 6",
+    "space": "Space 04599",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 74",
+    "serial": "da:88:31:03:ca:08",
+    "floor": "Floor 3",
+    "space": "Space 02789",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 75",
+    "serial": "9f:0a:4c:c2:fe:fd",
+    "floor": "Floor 8",
+    "space": "Space 96370",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 76",
+    "serial": "76:17:5e:79:39:60",
+    "floor": "Floor 4",
+    "space": "Space 31799",
+    "commissioned": true
+  },
+  {
+    "status": "connected",
+    "deviceType": "View Sense 77",
+    "serial": "ad:b7:65:3f:bf:20",
+    "floor": "Floor 8",
+    "space": "Space 18678",
+    "commissioned": false
+  },
+  {
+    "status": "warning",
+    "deviceType": "View Sense 78",
+    "serial": "3c:31:e2:f6:34:a2",
+    "floor": "Floor 0",
+    "space": "Space 67886",
+    "commissioned": true
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 79",
+    "serial": "dc:28:6c:8c:01:8f",
+    "floor": "Floor 9",
+    "space": "Space 67729",
+    "commissioned": false
+  },
+  {
+    "status": "disconnected",
+    "deviceType": "View Sense 80",
+    "serial": "2b:d2:ad:42:c2:a6",
+    "floor": "Floor 1",
+    "space": "Space 27684",
+    "commissioned": true
+  }
+]
